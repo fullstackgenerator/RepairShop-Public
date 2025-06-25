@@ -16,6 +16,8 @@ Think of it like a vintage amp: reliable, no unnecessary knobs, and easy to main
 
 ---
 
+The images simultaneously show the full screen and the mobile version (on the right).
+
 ![img1](https://github.com/user-attachments/assets/eff62863-56fc-4cc9-a398-c70185c0045e)
 
 ![img2](https://github.com/user-attachments/assets/055e7e53-cc3f-4778-be45-5c1e8e8b13e6)
